@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Kotlin (Jetpack Compose)<br>🎯 Goals: get a job after graduation</p>
+<p align="left">📚 I'm currently learning Programming rn.<br>🎯 Goals: get a job after graduation.</p>
 
 ###
 
